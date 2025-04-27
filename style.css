@@ -1,0 +1,107 @@
+h1{
+    font-size: 5rem;
+    text-align: center;
+    font-weight: 900px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px 1px whitesmoke;
+}
+html{
+    background-color: rgb(255, 249, 205)
+}
+.set{
+    margin: 100px;
+}
+ .alphabet {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    text-align: start;
+    line-height: 5;
+    font-size: 4rem;
+    font-weight: 900;
+    color: #daba04;
+    text-shadow: 3px 0 #f3dbea;
+    margin: 2px;
+
+
+ }
+ .a{
+    background-image: url("images_for_project/apple.jpg");
+ }
+ .b{
+    background-image: url("images_for_project/ball.jpg");
+ }
+ .c{
+    background-image: url("images_for_project/cat.jpg");
+ }
+ .d{
+    background-image: url("images_for_project/dog.jpg");
+ }
+ .e{
+    background-image: url("images_for_project/elephant.jpg");
+ }
+ .f{
+    background-image: url("images_for_project/fish.jpg");
+ }
+ .g{
+    background-image: url("images_for_project/gun.jpg");
+ }
+ .h{
+    background-image: url("images_for_project/hat.jpg");
+ }
+ .i{
+    background-image: url("images_for_project/icecream.jpg");
+ }
+ .j{
+    background-image: url("images_for_project/jeep.jpg");
+ }
+ .k{
+    background-image: url("images_for_project/kite.jpg");
+ }
+ .l{
+    background-image: url("images_for_project/lamp.jpg");
+ }
+ .m{
+    background-image: url("images_for_project/monkey.jpg");
+ }
+ .n{
+    background-image: url("images_for_project/nest.jpg");
+ }
+ .o{
+    background-image: url("images_for_project/owl.jpg");
+ }
+ .p{
+    background-image: url("images_for_project/parrot.jpg");
+ }
+ .q{
+    background-image: url("images_for_project/queen.jpg");
+ }
+ .r{
+    background-image: url("images_for_project/ring.jpg");
+ }
+ .s{
+    background-image: url("images_for_project/sparrow.jpg");
+ }
+ .t{
+    background-image: url("images_for_project/tiger.jpg");
+ }
+ .u{
+    background-image: url("images_for_project/umbrella.jpg");
+ }
+ .v{
+    background-image: url("images_for_project/violin.jpg");
+ }
+ .w{
+    background-image: url("images_for_project/watch.jpg");
+ }
+ .x{
+    background-image: url("images_for_project/xmas.jpg");
+ }
+ .y{
+    background-image: url("images_for_project/yak.jpg");
+ }
+ .z{
+    background-image: url("images_for_project/zebra.jpg");
+ }
+ 
